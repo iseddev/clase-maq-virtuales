@@ -1,0 +1,26 @@
+    1  apt-get update
+    2  halt
+    3  git clone https://github.com/iseddev/clase-maq-virtuales.git
+    4  nano query.txt
+    5  cat query.txt
+    6  ls
+    7  git status
+    8  git add .
+    9  ls -a
+   10  cls
+   11  clear
+   12  ls
+   13  cd clase-maq-virtuales
+   14  git status
+   15  nano survey.txt
+   16  cat survey.ttx
+   17  cat survey.txt
+   18  git add .
+   19  git commit -m "Agregando archivo survey.txt con preguntas y respuestas de la practica"
+   20  git config user.name "iseddev"
+   21  git config user.email "israel.eduardopm@gmail.com"
+   22  git commit -m "Agregando archivo survey.txt con preguntas y respuestas de la practica"
+   23  git status
+   24  git push origin main
+   25  git status
+   26  history 50 > commands.txt
